@@ -1,2 +1,3 @@
 # lab-riscv-asm
-Lab_riscv_asm
+Лабораторная работа по RISC-V asm
+# Вариант задания
